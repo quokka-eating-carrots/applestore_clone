@@ -2,9 +2,9 @@ import React from 'react'
 import clayful from 'clayful/client-js'
 
 function LandingPage() {
-  var Product = clayful.Product;
+  let Product = clayful.Product;
 
-  var options = {
+  let options = {
       query: {
           page: 1
       }

@@ -24,3 +24,4 @@ REACT는 SPA 방식으로 작동한다.
 | 사용 사례 | 애플리케이션에 특정 기능을 추가하는 데 사용 | 새로운 애플리케이션을 생성하거나 하나의 패키지로 많은 기능을 추가하는 데 사용 |
 
 **API는 SDK의 일부가 될 수 있다.**
+[API, SDK 개념 참고 사이트](https://doozi0316.tistory.com/entry/SDK-API%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
