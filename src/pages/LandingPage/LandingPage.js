@@ -29,8 +29,7 @@ function LandingPage() {
   });
 
   return (
-    <div>
-      LandingPage
+    <div className='pageWrapper'>
     </div>
   )
 }
