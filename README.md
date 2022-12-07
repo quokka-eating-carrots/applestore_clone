@@ -1,5 +1,8 @@
 # applestore_clone 🍎
 
+## 배포 사이트
+[applestore_react_clone](http://react-apple-app.s3-website.ap-northeast-2.amazonaws.com/)
+
 ```
 $ npx create-react-app ./
 ```
